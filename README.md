@@ -1,16 +1,50 @@
-# React + Vite
+# 🎯 Interview Randomizer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An interactive and modern React-based web application designed to help students prepare for technical interviews by generating random interview questions based on subject and difficulty level.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- 🎲 Random Interview Question Generator
+- 📚 Subject-wise filtering (DSA, OS, DBMS, CN)
+- 📈 Difficulty level selection (Easy, Medium, Hard)
+- 🔍 Search functionality for questions
+- ⭐ Save favorite questions using Local Storage
+- 🧠 Practice mode for continuous preparation
+- ⏱ Built-in interview timer
+- 🌙 Modern dark-themed responsive UI
+- ✨ Glassmorphism and gradient design using Tailwind CSS
+- 📱 Responsive and user-friendly interface
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Tailwind CSS
+- React Router DOM
+- JavaScript
+- Vite
+
+---
+
+## 📂 Project Structure
+
+```bash
+src/
+│
+├── components/
+│   └── Navbar.jsx
+│
+├── pages/
+│   ├── Home.jsx
+│   ├── Favorites.jsx
+│   └── Practice.jsx
+│
+├── data/
+│   └── questions.js
+│
+├── App.jsx
+├── main.jsx
+└── index.css
