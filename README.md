@@ -48,3 +48,11 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
+
+
+---
+
+## 📸 Screenshots
+
+<img width="1900" height="916" alt="image" src="https://github.com/user-attachments/assets/c21dc31a-bcf5-4c84-9abd-1bd9cedf1281" />
+
