@@ -29,6 +29,15 @@ An interactive and modern React-based web application designed to help students 
 
 ---
 
+## 📸 Screenshots
+
+<img width="1908" height="917" alt="image" src="https://github.com/user-attachments/assets/3e164e6f-3038-4c2a-bd60-7db68a80deef" />
+<img width="1900" height="916" alt="image" src="https://github.com/user-attachments/assets/c21dc31a-bcf5-4c84-9abd-1bd9cedf1281" />
+<img width="1899" height="912" alt="image" src="https://github.com/user-attachments/assets/7924e2de-a2c4-4930-815e-66567a816296" />
+<img width="1892" height="910" alt="image" src="https://github.com/user-attachments/assets/a9a331aa-59a5-4240-a522-823f5e760075" />
+
+
+
 ## 📂 Project Structure
 
 ```bash
@@ -48,11 +57,4 @@ src/
 ├── App.jsx
 ├── main.jsx
 └── index.css
-
-
----
-
-## 📸 Screenshots
-
-<img width="1900" height="916" alt="image" src="https://github.com/user-attachments/assets/c21dc31a-bcf5-4c84-9abd-1bd9cedf1281" />
 
